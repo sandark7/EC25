@@ -17,9 +17,6 @@ th {
   line-height: 1;
   color: #ffff72;
 }
-td:first-child {
-  font-family: 'Actay Wide', sans-serif;
-}
 th,
 td {
   font-size: 22px;
